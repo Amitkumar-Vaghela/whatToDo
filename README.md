@@ -1,4 +1,6 @@
 ![image](https://github.com/krishvsoni/whatToDo/assets/67964054/48caafe9-758e-42ba-af6f-5318f265b62c)
+![image](https://github.com/Amitkumar-Vaghela/whatToDo/blob/main/WhatTodo_layoutdesign.png)
+
 
 # Deploying a Static App on Azure with GitHub
 
